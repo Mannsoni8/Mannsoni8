@@ -12,9 +12,7 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-
-<img align="right" width="300" src="YOUR_GIF_OR_IMAGE_URL_HERE" />
+<img align="right" width="300" src="https://octodex.github.com/images/skatetocat.png" />
 
 I'm a Computer Science Engineering student and a passionate **MERN Stack Developer** who enjoys building modern, responsive, and user-friendly web applications.
 
@@ -25,7 +23,6 @@ I'm a Computer Science Engineering student and a passionate **MERN Stack Develop
 - 🚀 Interested in building real-world projects
 - 🎯 Goal: Become a skilled Software Engineer
 - ⚡ I enjoy turning ideas into working applications
-
 </div>
 ## 🛠️ Tech Stack
 

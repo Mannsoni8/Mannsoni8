@@ -20,6 +20,28 @@ I'm a Computer Science Engineering student and a passionate **MERN Stack Develop
 - 🎯 Goal: Become a skilled Software Engineer
 - ⚡ I enjoy turning ideas into working applications
 
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### 🧰 Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>  
+
 </div>
 
 <!--

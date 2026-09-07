@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="300" src="https://octodex.github.com/images/skatetocat.png" />
+<img align="right" width="220" src="https://octodex.github.com/images/skatetocat.png" />
 
 I'm a Computer Science Engineering student and a passionate **MERN Stack Developer** who enjoys building modern, responsive, and user-friendly web applications.
 

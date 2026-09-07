@@ -41,7 +41,61 @@ I'm a Computer Science Engineering student and a passionate **MERN Stack Develop
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>  
+---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🍔 Zigmo Reel
+
+A full-stack food discovery platform where users can explore food through short-form videos.
+
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • JWT • Cookies • ImageKit
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/Mannsoni8/zigmo-reel">
+    <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 🛒 SkyMart E-Commerce
+
+A modern e-commerce application focused on creating a smooth shopping experience with a responsive user interface.
+
+**Tech Stack:** React.js • JavaScript • CSS
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/Mannsoni8/SkyMartEcom">
+    <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 🏠 Airbnb Clone
+
+A web application inspired by Airbnb, built to practice full-stack development and modern web application architecture.
+
+**Tech Stack:** JavaScript • Node.js • Express.js • MongoDB
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/Mannsoni8/Airbnb">
+    <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 </div>
 
 <!--

@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Mann Soni
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+Developer;Backend+Enthusiast;Building+Real+World+Projects;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Fullstack+Developer;Backend+Enthusiast;Building+Real+World+Projects;Always+Learning+Something+New" />
 
 ---
 

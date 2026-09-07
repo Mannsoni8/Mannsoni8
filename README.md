@@ -62,6 +62,17 @@ A full-stack food discovery platform where users can explore food through short-
 </p>
 
 ---
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Mannsoni8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Mannsoni8&theme=tokyonight&hide_border=true)
+
+</div>
 
 <div align="center">
 

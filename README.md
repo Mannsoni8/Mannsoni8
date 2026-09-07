@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Fullstack+Developer;Backend+Enthusiast;Building+Real+World+Projects;Always+Learning+Something+New" />
 
----
+</div>
 
 ---
 
@@ -23,7 +23,11 @@ I'm a Computer Science Engineering student and a passionate **MERN Stack Develop
 - 🚀 Interested in building real-world projects
 - 🎯 Goal: Become a skilled Software Engineer
 - ⚡ I enjoy turning ideas into working applications
-</div>
+
+<br clear="right"/>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
@@ -42,7 +46,8 @@ I'm a Computer Science Engineering student and a passionate **MERN Stack Develop
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>  
+</p>
+
 ---
 
 ## 🚀 Featured Projects
@@ -55,28 +60,13 @@ A full-stack food discovery platform where users can explore food through short-
 
 **Tech Stack:** React.js • Node.js • Express.js • MongoDB • JWT • Cookies • ImageKit
 
-</div>
-
-<p align="center">
+<p>
   <a href="https://github.com/Mannsoni8/zigmo-reel">
     <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Mannsoni8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Mannsoni8&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
 
 ### 🛒 SkyMart E-Commerce
 
@@ -84,9 +74,7 @@ A modern e-commerce application focused on creating a smooth shopping experience
 
 **Tech Stack:** React.js • JavaScript • CSS
 
-</div>
-
-<p align="center">
+<p>
   <a href="https://github.com/Mannsoni8/SkyMartEcom">
     <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -94,34 +82,66 @@ A modern e-commerce application focused on creating a smooth shopping experience
 
 ---
 
-<div align="center">
-
 ### 🏠 Airbnb Clone
 
 A web application inspired by Airbnb, built to practice full-stack development and modern web application architecture.
 
 **Tech Stack:** JavaScript • Node.js • Express.js • MongoDB
 
-</div>
-
-<p align="center">
+<p>
   <a href="https://github.com/Mannsoni8/Airbnb">
     <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 </div>
 
-<!--
-**Mannsoni8/Mannsoni8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mannsoni8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Mannsoni8&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 My Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Mannsoni8/Mannsoni8/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Mannsoni8">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=100&section=footer"/>
+
+</div>

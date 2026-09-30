@@ -43,47 +43,6 @@
 <table>
 <tr>
 
-<td width="50%" valign="top">
-
-### About Me
-
-```javascript
-const mann = {
-    name: "Mann Soni",
-    role: "Full Stack Developer",
-    location: "India",
-
-    code: [
-        "JavaScript",
-        "TypeScript",
-        "Python",
-        "Java",
-        "SQL"
-    ],
-
-    frontend: [
-        "React",
-        "HTML",
-        "CSS",
-        "Tailwind CSS"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "REST APIs"
-    ],
-
-    philosophy:
-        "Build → Break → Debug → Learn → Repeat"
-};
-```
-
-</td>
-
-<td width="50%" valign="top">
-
 ### Currently Leveling Up
 
 ```text

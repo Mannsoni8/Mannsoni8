@@ -43,7 +43,6 @@
 <table>
 <tr>
 
-### Currently Leveling Up
 
 ### Currently Leveling Up
 

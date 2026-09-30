@@ -1,76 +1,312 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=200&section=header&text=Mann%20Soni&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%"/>
+<!-- 🌌 HERO -->
 
-# 👋 Hi, I'm Mann Soni
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00D9FF&height=250&section=header&text=MANN%20SONI&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=FULL%20STACK%20DEVELOPER%20%7C%20BACKEND%20ENTHUSIAST&descAlignY=60&descSize=18&descColor=00D9FF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Fullstack+Developer;Backend+Enthusiast;Building+Real+World+Projects;Always+Learning+Something+New" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=MERN+STACK+DEVELOPER;FULL+STACK+ENGINEER;BACKEND+ENTHUSIAST;BUILDING+REAL+WORLD+PROJECTS;TURNING+COFFEE+INTO+CODE+%E2%98%95;ALWAYS+LEARNING+%7C+ALWAYS+BUILDING" />
+
+<br/>
+
+<a href="https://github.com/Mannsoni8">
+<img src="https://img.shields.io/badge/GitHub-Mannsoni8-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Mannsoni8&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 🧬 `whoami`
 
-<img align="right" width="220" src="https://octodex.github.com/images/skatetocat.png" />
+<img align="right" width="300" src="https://octodex.github.com/images/daftpunktocat-guy.gif"/>
 
-I'm a Computer Science Engineering student and a passionate **MERN Stack Developer** who enjoys building modern, responsive, and user-friendly web applications.
+```javascript
+const mann = {
+    name: "Mann Soni",
+    role: "Full Stack Developer",
+    location: "India 🇮🇳",
 
-- 🔭 Currently building full-stack web applications
-- 🌱 Currently learning advanced backend development
-- 💻 Working with React, Node.js, Express.js and MongoDB
-- 🧠 Practicing Data Structures & Algorithms
-- 🚀 Interested in building real-world projects
-- 🎯 Goal: Become a skilled Software Engineer
-- ⚡ I enjoy turning ideas into working applications
+    code: [
+        "JavaScript",
+        "TypeScript",
+        "Python",
+        "Java",
+        "SQL"
+    ],
+
+    frontend: [
+        "React",
+        "HTML",
+        "CSS",
+        "Tailwind CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "REST APIs"
+    ],
+
+    currentlyLearning: [
+        "Advanced Backend",
+        "System Design",
+        "DSA"
+    ],
+
+    philosophy:
+        "Build → Break → Debug → Learn → Repeat 🚀"
+};
+```
 
 <br clear="right"/>
 
----
+> 💡 **I don't just write code. I build things, break things, fix things, and learn from every bug.**
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ CURRENTLY BUILDING
 
-### 💻 Frontend
+<div align="center">
 
-<p align="center">
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+### 🚀 Full Stack Applications
 
-</p>
+Building production-style applications with:
 
-### ⚙️ Backend & Data
+```text
+React
+   ↓
+REST APIs
+   ↓
+Express.js
+   ↓
+MongoDB
+```
 
-<p align="center">
+</td>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<td width="50%">
 
-</p>
+### 🧠 Leveling Up
 
-### 🧰 Tools & Deployment
+```text
+DSA
+ ↓
+Backend Architecture
+ ↓
+Authentication
+ ↓
+API Design
+ ↓
+Deployment
+```
 
-<p align="center">
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
-</p>
+</div>
 
 ---
 
+# 🛠️ TECH ARSENAL
 
+<div align="center">
+
+### 🎨 FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+
+### ⚙️ BACKEND
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postman" />
+
+### 🧰 TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm" />
+
+### 💻 LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" />
+
+</div>
+
+---
+
+# 🧠 DEVELOPER MODE
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║   > INITIALIZING MANN.SONI...                    ║
+║                                                  ║
+║   [████████████████████] 100%                   ║
+║                                                  ║
+║   ✓ Frontend systems online                     ║
+║   ✓ Backend systems online                      ║
+║   ✓ Database connected                          ║
+║   ✓ APIs operational                            ║
+║   ✓ Coffee levels critical ☕                   ║
+║                                                  ║
+║   STATUS: READY TO BUILD 🚀                     ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+# 🚀 PROJECT UNIVERSE
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🔐 Authentication API
+
+JWT authentication
+Refresh tokens
+Secure cookies
+Password hashing
+
+**Node.js • Express • MongoDB**
+
+</td>
+
+<td width="33%" align="center">
+
+### 🛒 E-Commerce API
+
+Products
+Cart
+Orders
+Validation
+
+**Express • MongoDB • REST**
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔗 URL Shortener
+
+Short URLs
+Redirect system
+REST API
+React frontend
+
+**React • Node • MongoDB**
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📊 GITHUB COMMAND CENTER
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mannsoni8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=6C63FF&text_color=FFFFFF"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mannsoni8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mannsoni8&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=6C63FF&currStreakLabel=00D9FF" />
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+</div>
+
+---
+
+# 🎯 2026 MISSION
+
+<div align="center">
+
+|            Mission            |     Status     |
+| :---------------------------: | :------------: |
+|         🧠 Master DSA         |   🔄 Learning  |
+|      ⚙️ Advanced Backend      |   🔄 Building  |
+|   🔐 Production Auth Systems  |   ✅ Building   |
+|    🚀 Deploy Real Projects    | 🔄 In Progress |
+|      💼 Become Job Ready      |   🔄 Grinding  |
+| 🌎 Build Something People Use |     🎯 Next    |
+
+</div>
+
+---
+
+# 💻 MY DEVELOPER PHILOSOPHY
+
+<div align="center">
+
+### `"First make it work. Then make it clean. Then make it scale."`
+
+<br/>
+
+```diff
++ Curiosity > Comfort
++ Consistency > Motivation
++ Building > Watching tutorials
++ Debugging > Giving up
++ Learning > Knowing everything
+```
+
+</div>
+
+---
+
+# 🌐 LET'S CONNECT
+
+<div align="center">
+
+<a href="https://github.com/Mannsoni8">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -78,8 +314,10 @@ I'm a Computer Science Engineering student and a passionate **MERN Stack Develop
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### ⚡ BUILD. BREAK. LEARN. REPEAT. ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=100&section=footer"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:302B63,100:0F0C29&height=130&section=footer&animation=twinkling"/>
 
 </div>

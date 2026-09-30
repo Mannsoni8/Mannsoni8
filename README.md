@@ -1,18 +1,19 @@
 <div align="center">
 
-<!-- 🌌 HERO -->
+<!-- HERO -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00D9FF&height=250&section=header&text=MANN%20SONI&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=FULL%20STACK%20DEVELOPER%20%7C%20BACKEND%20ENTHUSIAST&descAlignY=60&descSize=18&descColor=00D9FF" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=MERN+STACK+DEVELOPER;FULL+STACK+ENGINEER;BACKEND+ENTHUSIAST;BUILDING+REAL+WORLD+PROJECTS;TURNING+COFFEE+INTO+CODE+%E2%98%95;ALWAYS+LEARNING+%7C+ALWAYS+BUILDING" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=MERN+STACK+DEVELOPER;FULL+STACK+ENGINEER;BACKEND+ENTHUSIAST;BUILDING+REAL+WORLD+PROJECTS;TURNING+COFFEE+INTO+CODE;ALWAYS+LEARNING+%7C+ALWAYS+BUILDING" />
 
 <br/>
 
 <a href="https://github.com/Mannsoni8">
 <img src="https://img.shields.io/badge/GitHub-Mannsoni8-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -25,15 +26,32 @@
 
 ---
 
-# 🧬 `whoami`
+# `whoami`
 
-<img align="right" width="300" src="https://octodex.github.com/images/daftpunktocat-guy.gif"/>
+<div align="center">
+
+<img src="./assets/mann-soni-whoami-slow.gif" width="95%" alt="Mann Soni Whoami"/>
+
+<br/><br/>
+
+### `BUILD • BREAK • DEBUG • LEARN • REPEAT`
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### About Me
 
 ```javascript
 const mann = {
     name: "Mann Soni",
     role: "Full Stack Developer",
-    location: "India 🇮🇳",
+    location: "India",
 
     code: [
         "JavaScript",
@@ -57,32 +75,76 @@ const mann = {
         "REST APIs"
     ],
 
-    currentlyLearning: [
-        "Advanced Backend",
-        "System Design",
-        "DSA"
-    ],
-
     philosophy:
-        "Build → Break → Debug → Learn → Repeat 🚀"
+        "Build → Break → Debug → Learn → Repeat"
 };
 ```
 
-<br clear="right"/>
+</td>
 
-> 💡 **I don't just write code. I build things, break things, fix things, and learn from every bug.**
+<td width="50%" valign="top">
+
+### Currently Leveling Up
+
+```text
+╭─────────────────────────────╮
+│                             │
+│  DSA                        │
+│    ↓                        │
+│  Backend Architecture       │
+│    ↓                        │
+│  Authentication             │
+│    ↓                        │
+│  API Design                 │
+│    ↓                        │
+│  Deployment                 │
+│                             │
+╰─────────────────────────────╯
+```
+
+### Current Focus
+
+* Building full-stack applications
+* Advanced backend development
+* Practicing DSA
+* Authentication and API design
+* Building real-world projects
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+> **I don't just write code. I build things, break things, fix things, and learn from every bug.**
+
+<br/>
+
+```diff
++ Curiosity > Comfort
++ Consistency > Motivation
++ Building > Watching tutorials
++ Debugging > Giving up
++ Learning > Knowing everything
+```
+
+</div>
 
 ---
 
-# ⚡ CURRENTLY BUILDING
+# Currently Building
 
 <div align="center">
 
 <table>
 <tr>
+
 <td width="50%">
 
-### 🚀 Full Stack Applications
+### Full Stack Applications
 
 Building production-style applications with:
 
@@ -100,7 +162,7 @@ MongoDB
 
 <td width="50%">
 
-### 🧠 Leveling Up
+### Leveling Up
 
 ```text
 DSA
@@ -115,6 +177,7 @@ Deployment
 ```
 
 </td>
+
 </tr>
 </table>
 
@@ -122,23 +185,23 @@ Deployment
 
 ---
 
-# 🛠️ TECH ARSENAL
+# Tech Arsenal
 
 <div align="center">
 
-### 🎨 FRONTEND
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
 
-### ⚙️ BACKEND
+### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postman" />
 
-### 🧰 TOOLS
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm" />
 
-### 💻 LANGUAGES
+### Languages
 
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" />
 
@@ -146,7 +209,7 @@ Deployment
 
 ---
 
-# 🧠 DEVELOPER MODE
+# Developer Mode
 
 <div align="center">
 
@@ -161,9 +224,9 @@ Deployment
 ║   ✓ Backend systems online                      ║
 ║   ✓ Database connected                          ║
 ║   ✓ APIs operational                            ║
-║   ✓ Coffee levels critical ☕                   ║
+║   ✓ Coffee levels critical                      ║
 ║                                                  ║
-║   STATUS: READY TO BUILD 🚀                     ║
+║   STATUS: READY TO BUILD                        ║
 ║                                                  ║
 ╚══════════════════════════════════════════════════╝
 ```
@@ -172,7 +235,7 @@ Deployment
 
 ---
 
-# 🚀 PROJECT UNIVERSE
+# Project Universe
 
 <div align="center">
 
@@ -181,11 +244,14 @@ Deployment
 
 <td width="33%" align="center">
 
-### 🔐 Authentication API
+### Authentication API
 
 JWT authentication
+
 Refresh tokens
+
 Secure cookies
+
 Password hashing
 
 **Node.js • Express • MongoDB**
@@ -194,11 +260,14 @@ Password hashing
 
 <td width="33%" align="center">
 
-### 🛒 E-Commerce API
+### E-Commerce API
 
 Products
+
 Cart
+
 Orders
+
 Validation
 
 **Express • MongoDB • REST**
@@ -207,11 +276,14 @@ Validation
 
 <td width="33%" align="center">
 
-### 🔗 URL Shortener
+### URL Shortener
 
 Short URLs
+
 Redirect system
+
 REST API
+
 React frontend
 
 **React • Node • MongoDB**
@@ -225,7 +297,7 @@ React frontend
 
 ---
 
-# 📊 GITHUB COMMAND CENTER
+# GitHub Command Center
 
 <div align="center">
 
@@ -245,7 +317,7 @@ React frontend
 
 ---
 
-# 🐍 CONTRIBUTION MATRIX
+# Contribution Matrix
 
 <div align="center">
 
@@ -255,24 +327,24 @@ React frontend
 
 ---
 
-# 🎯 2026 MISSION
+# 2026 Mission
 
 <div align="center">
 
-|            Mission            |     Status     |
-| :---------------------------: | :------------: |
-|         🧠 Master DSA         |   🔄 Learning  |
-|      ⚙️ Advanced Backend      |   🔄 Building  |
-|   🔐 Production Auth Systems  |   ✅ Building   |
-|    🚀 Deploy Real Projects    | 🔄 In Progress |
-|      💼 Become Job Ready      |   🔄 Grinding  |
-| 🌎 Build Something People Use |     🎯 Next    |
+|           Mission          |    Status   |
+| :------------------------: | :---------: |
+|         Master DSA         |   Learning  |
+|      Advanced Backend      |   Building  |
+|   Production Auth Systems  |   Building  |
+|    Deploy Real Projects    | In Progress |
+|      Become Job Ready      |   Grinding  |
+| Build Something People Use |     Next    |
 
 </div>
 
 ---
 
-# 💻 MY DEVELOPER PHILOSOPHY
+# Developer Philosophy
 
 <div align="center">
 
@@ -292,7 +364,7 @@ React frontend
 
 ---
 
-# 🌐 LET'S CONNECT
+# Let's Connect
 
 <div align="center">
 
@@ -314,7 +386,7 @@ React frontend
 
 <div align="center">
 
-### ⚡ BUILD. BREAK. LEARN. REPEAT. ⚡
+### `BUILD. BREAK. LEARN. REPEAT.`
 
 <br/>
 

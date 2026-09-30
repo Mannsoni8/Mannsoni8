@@ -45,21 +45,17 @@
 
 ### Currently Leveling Up
 
-```text
-╭─────────────────────────────╮
-│                             │
-│  DSA                        │
-│    ↓                        │
-│  Backend Architecture       │
-│    ↓                        │
-│  Authentication             │
-│    ↓                        │
-│  API Design                 │
-│    ↓                        │
-│  Deployment                 │
-│                             │
-╰─────────────────────────────╯
-```
+### Currently Leveling Up
+
+<div align="center">
+
+<img 
+  src="./assets/learning-path-slow.gif" 
+  width="100%" 
+  alt="Mann Soni Learning Path"
+/>
+
+</div>
 
 ### Current Focus
 
